@@ -4,7 +4,7 @@
 Current hobby projects include building dashboards, APIs, and tools in Next.js, React, Python, and MySQL.
  
 ### 👩🏻‍🚀 Current Role
-Director of Client Services @ Shogun
+Solutions Consultant @ Shogun
 
 ### 🦖 Previous Roles
 - Front-end/UX engineer @ agencies & startups
