@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 🛠 Current Projects
-Current hobby projects include building dashboards, APIs, and tools in Next.js, React, Python, and MySQL.
+Current hobby projects include building apps, dashboards, APIs, and games with Next.js, React, Python, MySQL, and MongoDB.
  
 ### 👩🏻‍🚀 Current Role
 Sr. Manager of Technical Support @ Typeform
